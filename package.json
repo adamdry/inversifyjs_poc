@@ -1,0 +1,30 @@
+{
+  "name": "inversifyjs_poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamdry/inversifyjs_poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamdry/inversifyjs_poc/issues"
+  },
+  "homepage": "https://github.com/adamdry/inversifyjs_poc#readme",
+  "devDependencies": {
+    "@types/node": "^11.13.4",
+    "del": "^4.1.0",
+    "gulp": "^4.0.0",
+    "gulp-typescript": "^5.0.1",
+    "typescript": "^3.4.3"
+  },
+  "dependencies": {
+    "inversify": "^5.0.1",
+    "reflect-metadata": "^0.1.13"
+  }
+}
